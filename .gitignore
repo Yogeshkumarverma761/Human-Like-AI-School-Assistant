@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+school.db
+.DS_Store
